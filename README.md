@@ -1,7 +1,7 @@
 ### ANDRÉ TOPALOVIC TÖRNSTRÖM
 
 #### :evergreen_tree: Advent of Code 2020 :evergreen_tree:
-- [X] Day 1
+- [X] Day 1 Link to [code](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-01/day_1.py)
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
