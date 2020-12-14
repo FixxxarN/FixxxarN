@@ -1,7 +1,7 @@
 ### ANDRÉ TOPALOVIC TÖRNSTRÖM
 
 #### :evergreen_tree: Advent of Code 2020 :evergreen_tree:
-- [ ] Day 1
+- [X] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
