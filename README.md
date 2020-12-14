@@ -2,7 +2,7 @@
 ##### Programming language: Python :snake:
 #
 - [X] Day 1 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-01/day_1.py)
-- [ ] Day 2
+- [X] Day 2 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-02/day_2.py)
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
