@@ -2,7 +2,7 @@
 
 #### :evergreen_tree: Advent of Code 2020 :evergreen_tree:
 ##### Programming language: Python :snake:
-- [X] Day 1 [code](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-01/day_1.py)
+- [X] Day 1 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-01/day_1.py)
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
