@@ -1,5 +1,5 @@
 <details>
-  <summary>:evergreen_tree: Advents of Code 2020 :evergreen_tree: written in python :snake:</summary>
+  <summary><b>:evergreen_tree: Advents of Code 2020 :evergreen_tree: written in python :snake:</b></summary>
   
   #
 - [X] Day 1 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-01/day_1.py)
