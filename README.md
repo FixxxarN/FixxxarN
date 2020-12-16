@@ -1,11 +1,8 @@
-#### :evergreen_tree: Advent of Code 2020 :evergreen_tree:
-##### Programming language: Python :snake:
-
 <details>
   <summary>:evergreen_tree: Advents of Code 2020 :evergreen_tree: written in python :snake:</summary>
   
   #
-  - [X] Day 1 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-01/day_1.py)
+- [X] Day 1 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-01/day_1.py)
 - [X] Day 2 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-02/day_2.py)
 - [X] Day 3 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-03/day_3.py)
 - [X] Day 4 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-04/day_4.py)
