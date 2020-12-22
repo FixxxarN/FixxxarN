@@ -6,7 +6,7 @@
 - [X] Day 2 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-02/day_2.py)
 - [X] Day 3 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-03/day_3.py)
 - [X] Day 4 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-04/day_4.py)
-- [ ] Day 5
+- [X] Day 5 - [CODE](https://github.com/FixxxarN/advent-of-code-20/blob/main/day-05/day_5.py)
 - [ ] Day 6
 - [ ] Day 7
 - [ ] Day 8
