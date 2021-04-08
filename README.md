@@ -1,5 +1,5 @@
-<details>
-  [PORTFOLIO](https://fixxxarn.github.io/portfolio/)
+[PORTFOLIO](https://fixxxarn.github.io/portfolio/)
+<details>  
   <summary><b>:evergreen_tree: Advents of Code 2020 :evergreen_tree: written in python :snake:</b></summary>
   
   #
