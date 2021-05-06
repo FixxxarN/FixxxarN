@@ -29,3 +29,5 @@
 - [ ] Day 24
 - [ ] Day 25
 </details>
+
+![image of my smart mirror](https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/182597921_278648747266998_8084119491663183006_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=ae9488&_nc_ohc=v8_E5hwrpQ4AX_HyY_5&_nc_ht=scontent-arn2-1.xx&tp=6&oh=b05b8c4767c6f246fadd68cb06c928bc&oe=60BB7561)
